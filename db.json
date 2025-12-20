@@ -125,6 +125,14 @@
       "password": "user123",
       "isAdmin": false,
       "favorites": []
+    },
+    {
+      "id": 3,
+      "name": "Usuario legal",
+      "email": "usuario@exemplo.com",
+      "password": "usuario123",
+      "isAdmin": false,
+      "favorites": []
     }
   ]
 }
